@@ -1,0 +1,21 @@
+body {
+    background-color: #020002;
+
+}
+
+.flex-container-1 {
+background-color: #500050;
+border: 5px solid white;
+    display: flex;
+justify-content: center; 
+    height: 300px;
+}
+
+.flex-container-1 .flex-item {
+background-color: #020002;
+color: white;
+margin: 20px;
+padding: 20px;
+height: 30px;
+
+}
